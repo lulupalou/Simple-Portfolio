@@ -1,4 +1,41 @@
 /* Add screen styles below */
+
+body { 
+    margin: 0
+    margin-top: 100px;
+    background: #33032F;
+}
+.banner {
+    background: #A0ACAD;
+    color:#170312;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:fixed
+    top: 0;
+}
+div {
+    background:#33032F;
+    color:#FDFCFD;
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card div{
+    padding: 20px;
+}
+
+.list {
+     padding-left: 0;
+     list-style-position: inside;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+img { 
+    float: left;
+    margin-right: 20px;
+}
 a.active {
     font-weight: bold;
-}
+    font-family: Arial, Helvetica, sans-serif;
