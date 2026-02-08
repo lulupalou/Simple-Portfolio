@@ -1,4 +1,36 @@
 /* Add screen styles below */
+
+body { 
+    margin: 0
+    margin-top: 100px;
+    background: #33032F;
+    position:top
+}
+.banner {
+    background: #A0ACAD;
+    color:#33032F;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:fixed
+    top: 0;
+}
+.hero{
+    text-align: center;
+    height: 100px
+}
+div {
+    background:#33032F;
+    color:#FDFCFD;
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img { 
+    float: left;
+    margin-right: 20px;
+}
 a.active {
     font-weight: bold;
-}
+    font-family: Arial, Helvetica, sans-serif;
