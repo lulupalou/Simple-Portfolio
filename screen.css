@@ -4,11 +4,11 @@ body {
     margin: 0
     margin-top: 100px;
     background: #33032F;
-    
+    position:top
 }
 .banner {
     background: #A0ACAD;
-    color:#170312;
+    color:#33032F;
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
     position:fixed
@@ -21,16 +21,6 @@ div {
     width: 800px;
     height: 600px;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.card div{
-    padding: 20px;
-}
-
-.list {
-     padding-left: 0;
-     list-style-position: inside;
-     font-family: Arial, Helvetica, sans-serif;
 }
 
 img { 
