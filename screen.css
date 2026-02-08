@@ -14,6 +14,10 @@ body {
     position:fixed
     top: 0;
 }
+.hero{
+    text-align: center;
+    height: 100px
+}
 div {
     background:#33032F;
     color:#FDFCFD;
